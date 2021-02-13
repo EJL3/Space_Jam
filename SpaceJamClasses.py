@@ -3,7 +3,7 @@ import mathPaths as mp
 from direct.task import Task
 from pandac.PandaModules import WindowProperties
 props = WindowProperties()
-props.setTitle('SpaceJam')
+props.setTitle('By Rizwan AR')
 
 class Universe(InvCollideObj):
 
